@@ -1,4 +1,3 @@
-print("aight daniel here's your program")
 try:
     timestables = int(input("what timestables do you want? "))
 except ValueError:
